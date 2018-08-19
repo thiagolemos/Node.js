@@ -1,0 +1,8 @@
+*       Facilitando o desenvolvimento Nodejs com Nodemon
+                https://woliveiras.com.br/posts/Facilitando-o-desenvolvimento-Nodejs-com-Nodemon/
+
+*       Executar mocha : 
+                npm run mocha
+
+*       Package.json entendendo os scripts     
+                http://wbruno.com.br/nodejs/package-json-entendendo-os-scripts/
